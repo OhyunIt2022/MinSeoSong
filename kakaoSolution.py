@@ -24,3 +24,6 @@ def solution(id_list, report, k):
                 attackId[x] += 1
         
     return attackId
+
+
+# 문제는 카카오 '신고 결과 받기'에 대한 저의 해결 방안입니다.
